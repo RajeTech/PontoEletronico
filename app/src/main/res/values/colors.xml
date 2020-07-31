@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#C6C1EF</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tabtextcolor">#2d2d2d</color>
+    <color name="tabindicadorcolor">#325D6F</color>
+    <color name="caixaeditcolor">#fff</color>
+    <color name="fundo">#D5D7EC</color>
+    <color name="colorBotao">#C6C1EF</color>
+</resources>

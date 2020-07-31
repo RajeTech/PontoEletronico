@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ponto Eletronico</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">Nb0KwY1NSzjPfS8gUXgAqTtlSFk1bS3czidUHVxv</string>
+    <string name="back4app_client_key">pJt2l0OP1MO90DWyaPUaodzaEELRWALPOdmJoixB</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "396221642302",
+    "firebase_url": "https://ponto-eletronico-b8bc0.firebaseio.com",
+    "project_id": "ponto-eletronico-b8bc0",
+    "storage_bucket": "ponto-eletronico-b8bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396221642302:android:fed38793bac585a81c436f",
+        "android_client_info": {
+          "package_name": "com.pm.ramilton.pontoeletronico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396221642302-iq4qv23982f92kr9rfqevvp6c5k4o7df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcvCY-L4sor8BI06Z69M3L1-7w9cvv5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396221642302-iq4qv23982f92kr9rfqevvp6c5k4o7df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
